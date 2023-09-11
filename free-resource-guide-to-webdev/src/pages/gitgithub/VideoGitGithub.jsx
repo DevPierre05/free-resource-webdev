@@ -6,6 +6,7 @@ export default function VideoGitGithub() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/RGOj5yH7evk?si=HySaffNLE8oVVBVR"
             title="YouTube video player"
             frameBorder="0"
@@ -16,6 +17,7 @@ export default function VideoGitGithub() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/tRZGeaHPoaw?si=bj1YQjnUO9Tf0AfN"
             title="YouTube video player"
             frameBorder="0"
@@ -26,6 +28,7 @@ export default function VideoGitGithub() {
         <div className="justify-self-center">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/SWYqp7iY_Tc?si=DC19OrFM0hVABaO6"
             title="YouTube video player"
             frameBorder="0"

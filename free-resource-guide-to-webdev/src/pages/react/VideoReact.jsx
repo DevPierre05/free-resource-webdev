@@ -6,6 +6,7 @@ export default function VideoReact() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/w7ejDZ8SWv8?si=s0aYaYQmLPqgTZmf"
             title="YouTube video player"
             frameBorder="0"
@@ -16,6 +17,7 @@ export default function VideoReact() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/bMknfKXIFA8?si=Nc7_diaeXtiIxbO0"
             title="YouTube video player"
             frameBorder="0"
@@ -26,6 +28,7 @@ export default function VideoReact() {
         <div className="justify-self-center">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/b9eMGE7QtTk?si=zjfgNPFAi88eqn6b"
             title="YouTube video player"
             frameBorder="0"

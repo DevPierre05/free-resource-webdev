@@ -6,6 +6,7 @@ export default function VideoJavascript() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/PkZNo7MFNFg?si=GtOimRF2GELJ_84u"
             title="YouTube video player"
             frameBorder="0"
@@ -16,6 +17,7 @@ export default function VideoJavascript() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/W6NZfCO5SIk?si=Zs6rYD7YKT5pGonR"
             title="YouTube video player"
             frameBorder="0"
@@ -26,6 +28,7 @@ export default function VideoJavascript() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/hdI2bqOjy3c?si=X2rI51NsOx3ad0Y7"
             title="YouTube video player"
             frameBorder="0"

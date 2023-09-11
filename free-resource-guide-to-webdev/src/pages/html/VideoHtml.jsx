@@ -6,6 +6,7 @@ export default function VideoHtml() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/kUMe1FH4CHE?si=RZJh8rJ066a-6uM2"
             title="YouTube video player"
             frameBorder="0"
@@ -16,6 +17,7 @@ export default function VideoHtml() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/qz0aGYrrlhU?si=LfhiPk9fskOcPusZ"
             title="YouTube video player"
             frameBorder="0"
@@ -26,6 +28,7 @@ export default function VideoHtml() {
         <div className="justify-self-center">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/UB1O30fR-EE?si=L4epoqUivVVWSRIF"
             title="YouTube video player"
             frameBorder="0"

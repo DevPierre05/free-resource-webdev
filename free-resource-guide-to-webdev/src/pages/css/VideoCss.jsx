@@ -6,6 +6,7 @@ export default function VideoCss() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/yfoY53QXEnI?si=bIvqxyCddmjDs-eD"
             title="YouTube video player"
             frameBorder="0"
@@ -16,6 +17,7 @@ export default function VideoCss() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/OXGznpKZ_sA?si=X4WaIiiTaVghTKIE"
             title="YouTube video player"
             frameBorder="0"
@@ -26,6 +28,7 @@ export default function VideoCss() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/1PnVor36_40?si=0UaAbJYNa3bNkLwY"
             title="YouTube video player"
             frameBorder="0"
@@ -36,6 +39,7 @@ export default function VideoCss() {
         <div className="">
           <iframe
             className="w-[18rem] h-[18rem] sm:w-[35rem] sm:h-[20rem]"
+            loading="lazy"
             src="https://www.youtube.com/embed/n4R2E7O-Ngo?si=FLQ_iLyuh830gi4z"
             title="YouTube video player"
             frameBorder="0"
