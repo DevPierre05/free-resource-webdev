@@ -46,7 +46,7 @@ export default function LearnHtml() {
         >
           <img
             src={mdndocs}
-            alt=""
+            alt="image of MDN docs"
             className="w-[15rem] h-[15rem] sm:w-[20rem] object-contain hover:scale-[105%]"
           />
           <div className="flex justify-center items-center bg-[#f8f8fa] h-[calc(20rem-15rem)]">
@@ -61,7 +61,7 @@ export default function LearnHtml() {
         >
           <img
             src={codeacademy}
-            alt=""
+            alt="image of codeacademy"
             className="w-[15rem] h-[15rem] sm:w-[20rem] object-fill hover:scale-[105%]"
           />
           <div className="flex justify-center items-center bg-[#f8f8fa] h-[calc(20rem-15rem)]">
