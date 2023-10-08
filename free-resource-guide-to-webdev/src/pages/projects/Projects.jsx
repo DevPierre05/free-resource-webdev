@@ -25,8 +25,8 @@ export default function Projects() {
               resume, projects, and contact information.
             </li>
             <li className="flex flex-col">
-              <span className="font-bold">Blog Page</span>Design a simple blog
-              page with HTML to publish your articles or thoughts.
+              <span className="font-bold">Blog Page</span>
+              Design a simple blog page with HTML to publish your articles or thoughts.
             </li>
             <li className="flex flex-col">
               <span className="font-bold">Product Landing Page</span>Build a
